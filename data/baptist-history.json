@@ -1,0 +1,224 @@
+{
+ "items":[
+  // {"id":"Geneva Bible NT",
+  //  "label":"Geneva Bible NT",
+  //  "type":"Item",
+  //  "start":"1557",
+  //  "eventType":"Bible--Geneva",
+  //  "wikipedia":"http://en.wikipedia.org/wiki/Geneva_Bible",
+  //  "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Geneva_bible_gothic.jpg/220px-Geneva_bible_gothic.jpg",
+  //  "imagesource":"http://en.wikipedia.org/wiki/File:Geneva_bible_gothic.jpg"
+  //  },
+   {
+    "id":"John Smyth separates from Church of England",
+    "label":"John Smyth separates from Church of England",
+    "type":"Item",
+    "start":"1606",
+    "eventType":"English General Baptists"
+   },
+   {
+    "id":"First General Baptist church forms in Holland under John Smyth",
+    "label":"First General Baptist church forms in Holland under John Smyth",
+    "type":"Item",
+    "start":"1609",
+    "eventType":"English General Baptists"
+   },
+   {
+    "id":"First General Baptist congregation at Spitalfields, London",
+    "label":"First General Baptist congregation at Spitalfields, London",
+    "type":"Item",
+    "start":"1611",
+    "eventType":"English General Baptists"
+   },
+   {
+    "id":"Thomas Helwys publishes A Short Declaration of the Mistery of Iniquity",
+    "label":"Thomas Helwys publishes 'A Short Declaration of the Mistery of Iniquity'",
+    "type":"Item",
+    "start":"1612",
+    "eventType":"English General Baptists"
+   },
+   {
+    "id":"London area churches associated; correspondence with Mennonites",
+    "label":"London area churches associated; correspondence with Mennonites",
+    "type":"Item",
+    "start":"1626",
+    "eventType":"English General Baptists"
+   },
+   {
+    "id":"Midland Association of thirty General Baptist churches formed",
+    "label":"Midland Association of thirty General Baptist churches formed",
+    "type":"Item",
+    "start":"1651",
+    "eventType":"English General Baptists"
+   },
+   {
+    "id":"General Baptist Assembly commenced",
+    "label":"General Baptist Assembly commenced",
+    "type":"Item",
+    "start":"1654",
+    "eventType":"English General Baptists"
+   },
+   {
+    "id":"General Assembly of General Baptists threatened by Arian teachings of Matthew Caffyn",
+    "label":"General Assembly of General Baptists threatened by Arian teachings of Matthew Caffyn",
+    "type":"Item",
+    "start":"1689",
+    "eventType":"English General Baptists"
+   },
+   {
+    "id":"General Baptist Fund established in England",
+    "label":"General Baptist Fund established in England",
+    "type":"Item",
+    "start":"1725",
+    "eventType":"English General Baptists"
+   },
+   {
+    "id":"'New Connection' Free Grace General Baptist Assembly organized in England",
+    "label":"'New Connection' Free Grace General Baptist Assembly organized in England",
+    "type":"Item",
+    "start":"1770",
+    "eventType":"English General Baptists"
+   },
+   {
+    "id":"The first Particular Baptist church organized by Spilsbury",
+    "label":"The first Particular Baptist church organized by Spilsbury",
+    "type":"Item",
+    "start":"1638",
+    "eventType":"English Particular Baptists"
+   },
+   {
+    "id":"Baptism by immersion emphasized by Spilsbury",
+    "label":"Baptism by immersion emphasized by Spilsbury",
+    "type":"Item",
+    "start":"1641",
+    "eventType":"English Particular Baptists"
+   },
+   {
+    "id":"First London Confession",
+    "label":"First London Confession",
+    "type":"Item",
+    "start":"1644",
+    "eventType":"English Particular Baptists"
+   },
+   {
+    "id":"Organization of Association of London Particular Baptists",
+    "label":"Organization of Association of London Particular Baptists",
+    "type":"Item",
+    "start":"1644",
+    "eventType":"English Particular Baptists"
+   },
+   {
+    "id":"Midland Association Confession",
+    "label":"Midland Association Confession",
+    "type":"Item",
+    "start":"1655",
+    "eventType":"English Particular Baptists"
+   },
+   {
+    "id":"Edward Terrill Trust founds Bristol Academy",
+    "label":"Edward Terrill Trust founds Bristol Academy",
+    "type":"Item",
+    "start":"1679",
+    "eventType":"English Particular Baptists"
+   },
+   {
+    "id":"Second London Confession",
+    "label":"Second London Confession",
+    "type":"Item",
+    "start":"1689",
+    "eventType":"English Particular Baptists"
+   },
+   {
+    "id":"General Assembly of Particular Baptists organizes in London",
+    "label":"General Assembly of Particular Baptists organizes in London",
+    "type":"Item",
+    "start":"1689",
+    "eventType":"English Particular Baptists"
+   },
+   {
+    "id":"Particular Baptist Fund established",
+    "label":"Particular Baptist Fund established",
+    "type":"Item",
+    "start":"1717",
+    "eventType":"English Particular Baptists"
+   },
+   {
+    "id":"Organization of the English Baptist Missionary Society at Kettering, at the instigation of William Carey",
+    "label":"Organization of the English Baptist Missionary Society at Kettering, at the instigation of William Carey",
+    "type":"Item",
+    "start":"1792",
+    "eventType":"English Particular Baptists"
+   },
+   {
+    "id":"Organization of first Baptist church in America; at Providence, RI by Roger Williams or in Newport, RI by John Clarke",
+    "label":"Organization of first Baptist church in America; at Providence, RI by Roger Williams or in Newport, RI by John Clarke",
+    "type":"Item",
+    "start":"1638",
+    "end":"1639",
+    "eventType":"Baptists in America"
+   },
+   {
+    "id":"Henry Dunster forced to resign as president of Harvard College",
+    "label":"Henry Dunster forced to resign as president of Harvard College",
+    "type":"Item",
+    "start":"1654",
+    "eventType":"Baptists in America"
+   },
+   {
+    "id":"John Clarke enables the colonial charter of Rhode Island",
+    "label":"John Clarke enables the colonial charter of Rhode Island",
+    "type":"Item",
+    "start":"1663",
+    "eventType":"Baptists in America"
+   },
+   {
+    "id":"Benjamin Keach introduces first Baptist hymnal in London",
+    "label":"Benjamin Keach introduces first Baptist hymnal in London",
+    "type":"Item",
+    "start":"1663",
+    "eventType":"English General Baptists"
+   },
+   {
+    "id":"First Baptist settlers noted in Virginia",
+    "label":"First Baptist settlers noted in Virginia",
+    "type":"Item",
+    "start":"1700",
+    "eventType":"Baptists in America"
+   },
+   {
+    "id":"Organization of Philadelphia Association, the first in America",
+    "label":"Organization of Philadelphia Association, the first in America",
+    "type":"Item",
+    "start":"1707",
+    "eventType":"Baptists in America"
+   },
+   {
+    "id":"New Light movement begins among New England churches",
+    "label":"New Light movement begins among New England churches",
+    "type":"Item",
+    "start":"1740",
+    "eventType":"Baptists in America"
+   },
+   {
+    "id":"Philadelphia Association adopts Second London Confession",
+    "label":"Philadelphia Association adopts Second London Confession",
+    "type":"Item",
+    "start":"1742",
+    "eventType":"Baptists in America"
+   },
+   {
+    "id":"Founding of the College of Rhode Island, now Brown University",
+    "label":"Founding of the College of Rhode Island, now Brown University",
+    "type":"Item",
+    "start":"1764",
+    "eventType":"Baptists in America"
+   },
+   {
+    "id":"Isaac Backus presents case for religious liberty to U.S. Continental Congress",
+    "label":"Isaac Backus presents case for religious liberty to U.S. Continental Congress",
+    "type":"Item",
+    "start":"1774",
+    "eventType":"Baptists in America"
+   }
+ ]
+}
