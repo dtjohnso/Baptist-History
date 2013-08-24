@@ -1,4 +1,4 @@
-English-Bible
+Baptist-History
 =====================
 
-I've created a timeline of the history of the English Bible.
+A timeline of Baptist history, with more information to come.
