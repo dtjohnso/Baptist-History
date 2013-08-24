@@ -11,3 +11,5 @@ data/timeline-sources.bib
 data/timeline-sources.json
 assets/map.png
 assets/timeline.png
+data/english-bible.json
+data/english-bible-compressed.json
