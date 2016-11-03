@@ -21,39 +21,6 @@
 <link rel="stylesheet" href="assets/style.min.css" />
 <link href='http://fonts.googleapis.com/css?family=Belgrano' rel='stylesheet' type='text/css'>
 
-
-<script>
-  function myTimelineConstructor(div, eventSource) {
-    var theme = Timeline.ClassicTheme.create();
-    theme.event.bubble.width = 500; 
-    theme.event.bubble.height = 300;
-    theme.ether.backgroundColors[1] = theme.ether.backgroundColors[0];
-    var bandInfos = [
-    Timeline.createBandInfo({
-      width:          "85%", 
-      intervalUnit:   Timeline.DateTime.DECADE, 
-      intervalPixels: 175,
-      eventSource:    eventSource,
-      theme:          theme
-    }),
-    Timeline.createBandInfo({
-      width:          "15%", 
-      intervalUnit:   Timeline.DateTime.CENTURY, 
-      intervalPixels: 120,
-      eventSource:    eventSource,
-      overview:       true,
-      theme:          theme
-    })
-    ];
-    bandInfos[1].syncWith = 0;
-    bandInfos[1].highlight = true;
-
-
-    div.style.height = "600px";
-    return Timeline.create(div, bandInfos, Timeline.HORIZONTAL);
-  }
-</script>
-
 </head>
 
 <body>
@@ -101,6 +68,38 @@
   <span ex:if-exists=".sources" ex:content="concat('Sources: ',.sources)"></span>
   <p>Contributor: <span ex:content=".contributor"></span></p>
 </div>
+
+<script>
+  function myTimelineConstructor(div, eventSource) {
+    var theme = Timeline.ClassicTheme.create();
+    theme.event.bubble.width = 500; 
+    theme.event.bubble.height = 300;
+    theme.ether.backgroundColors[1] = theme.ether.backgroundColors[0];
+    var bandInfos = [
+    Timeline.createBandInfo({
+      width:          "85%", 
+      intervalUnit:   Timeline.DateTime.DECADE, 
+      intervalPixels: 175,
+      eventSource:    eventSource,
+      theme:          theme
+    }),
+    Timeline.createBandInfo({
+      width:          "15%", 
+      intervalUnit:   Timeline.DateTime.CENTURY, 
+      intervalPixels: 120,
+      eventSource:    eventSource,
+      overview:       true,
+      theme:          theme
+    })
+    ];
+    bandInfos[1].syncWith = 0;
+    bandInfos[1].highlight = true;
+
+
+    div.style.height = "600px";
+    return Timeline.create(div, bandInfos, Timeline.HORIZONTAL);
+  }
+</script>
 
 </body>
 </html>
