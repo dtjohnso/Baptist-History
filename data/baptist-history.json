@@ -1,14 +1,5 @@
 {
  "items":[
-  // {"id":"Geneva Bible NT",
-  //  "label":"Geneva Bible NT",
-  //  "type":"Item",
-  //  "start":"1557",
-  //  "eventType":"Bible--Geneva",
-  //  "wikipedia":"http://en.wikipedia.org/wiki/Geneva_Bible",
-  //  "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Geneva_bible_gothic.jpg/220px-Geneva_bible_gothic.jpg",
-  //  "imagesource":"http://en.wikipedia.org/wiki/File:Geneva_bible_gothic.jpg"
-  //  },
    {
     "id":"John Smyth separates from Church of England",
     "label":"John Smyth separates from Church of England",
